@@ -40,6 +40,8 @@
 
 ### OLX-like Selling App
 
+### And some are private projects for compaines
+
 <h2 align="center">What I'm Up To:</h2>
 
 - 🔭 Currently, I'm working on exciting Flutter projects that bring innovative ideas to life.
