@@ -40,7 +40,6 @@
 
 ### OLX-like Selling App
 
-### And some are private projects for compaines
 
 <h2 align="center">What I'm Up To:</h2>
 
